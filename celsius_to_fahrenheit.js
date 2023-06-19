@@ -10,5 +10,5 @@ let readlineSync = require('readline-sync');
 let tempCelsius = readlineSync.question("Enter the temperature in Celsius: ");
 console.log(`You entered: ${tempCelsius} C`);
 
-let convertedTemp = celsiusToFahrenheit(tempCelsius);
+let convertedTemp = Math.round(celsiusToFahrenheit(tempCelsius));
 console.log(`${tempCelsius} degrees Celsius is ${convertedTemp} degrees Fahrenheit.`);
