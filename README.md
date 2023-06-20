@@ -68,3 +68,4 @@ Chris Borowski
 Follow me *@chriseborowski* on [GitHub](https://github.com/chriseborowski) / [Replit](https://replit.com/@chriseborowski/) / [Twitter](https://twitter.com/chriseborowski)
 
 Project repository link: [Celsius to Fahrenheit temperature converter in Python](https://github.com/chriseborowski/celsius-to-fahrenheit)
+* versions: [JavaScript](https://github.com/chriseborowski/celsius-to-fahrenheit/blob/main/celsius_to_fahrenheit.js) • [Python](https://github.com/chriseborowski/celsius-to-fahrenheit/blob/main/celsius_to_fahrenheit.py)
